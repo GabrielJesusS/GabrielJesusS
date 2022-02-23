@@ -1,16 +1,15 @@
-### Hi there 👋
+## Olá! Meu nome é Gabriel, mas pode me chamar de Jesus;
 
-<!--
-**GabrielJesusS/GabrielJesusS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<div>
+  <a href="https://beacons.ai/GabrielJesusS"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=GabrielJesusS&show_icons=true&theme=github_dark&include_allcommits=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielJesusS&layout=compact&theme=github_dark"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="75em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+</div>
