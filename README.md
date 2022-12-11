@@ -1,7 +1,7 @@
 <h1> 👾 Olá! Meu nome é Gabriel, mas pode me chamar de Jesus 👾 </h1>
 
 <div>
-    <img src="https://cdn.discordapp.com/attachments/707610004118700042/1051514613772075098/prog.gif">
+    <img src="https://cdn.discordapp.com/attachments/707610004118700042/946228264794460160/1_OF0xEMkWBv-69zvmNs6RDQ.gif">
   </div>
   <br>
 <div >
@@ -23,4 +23,8 @@
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
   <img height="50em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img height="50em"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+</div>
+<div>
+    <p>É isso!</p>
+     <img src="https://media.discordapp.net/attachments/707610004118700042/1051514613772075098/prog.gif" alt="Eu programando">
 </div>
