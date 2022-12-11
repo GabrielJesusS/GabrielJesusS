@@ -1,7 +1,7 @@
 <h1> 👾 Olá! Meu nome é Gabriel, mas pode me chamar de Jesus 👾 </h1>
 
 <div>
-    <img src="https://media.discordapp.net/attachments/707610004118700042/946228264794460160/1_OF0xEMkWBv-69zvmNs6RDQ.gif?width=1200&height=525">
+    <img src="https://cdn.discordapp.com/attachments/707610004118700042/1051514613772075098/prog.gif">
   </div>
   <br>
 <div >
