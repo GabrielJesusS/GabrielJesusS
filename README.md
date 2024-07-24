@@ -1,6 +1,6 @@
 <section>
     <h1 align="center"> 👾 Hello there! I'm Gabriel Jesus! 👾 </h1>
-    <img width="100%" src="https://cdn.discordapp.com/attachments/1133822061970731159/1265784060651769938/image.png ex=66a2c4c5&is=66a17345&hm=38768ad58647b127eaca4457093d210ec36a337384a0d6de31aa34adf23caac2&">
+    <img width="100%" src="https://media.discordapp.net/attachments/1133822061970731159/1265784060651769938/image.png?ex=66a2c4c5&is=66a17345&hm=38768ad58647b127eaca4457093d210ec36a337384a0d6de31aa34adf23caac2&=&format=webp&quality=lossless">
 </section>
 <hr/>
 <br/>
